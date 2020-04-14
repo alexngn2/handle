@@ -1,0 +1,21 @@
+{
+  "name": "HomeWork-13",
+  "version": "1.0.0",
+  "description": "13: Node Express Handlebars",
+  "main": "orm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UCI-Bootcamp/HomeWork-13.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UCI-Bootcamp/HomeWork-13/issues"
+  },
+  "homepage": "https://github.com/UCI-Bootcamp/HomeWork-13#readme"
+}
